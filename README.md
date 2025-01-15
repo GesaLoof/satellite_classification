@@ -64,3 +64,6 @@ This library was generated using [Cookiecutter] and a custom made template based
 - Luckas Fonck
 - Ibai Irastorza
 
+### Link to the national forest institution in Chile
+
+- https://www.conaf.cl/incendios/situacion-actual-y-pronostico-de-incendios/
