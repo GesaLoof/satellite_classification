@@ -58,3 +58,9 @@ This library was generated using [Cookiecutter] and a custom made template based
 
 [file an issue]: https://github.com/GesaLoof/satellite_classification/issues
 
+### Colaborators
+
+- Gesa Loof
+- Luckas Fonck
+- Ibai Irastorza
+
