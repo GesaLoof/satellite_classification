@@ -4,3 +4,4 @@ scikit-learn
 scikit-image
 earthengine-api
 geemap
+setuptools

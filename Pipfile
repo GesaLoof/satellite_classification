@@ -10,6 +10,8 @@ scikit-learn = "*"
 scikit-image = "*"
 matplotlib = "*"
 ee = "*"
+earthengine-api = "*"
+geemap = "*"
 
 [dev-packages]
 
